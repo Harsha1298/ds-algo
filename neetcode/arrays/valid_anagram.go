@@ -1,5 +1,5 @@
 // Problem: Valid Anagram
-// Link: https://neetcode.io/problems/valid-anagram
+// Link: https://neetcode.io/problems/is-anagram/question?list=neetcode250
 //
 // Given two strings s and t, return true if t is an anagram of s.
 // An anagram contains the same characters with the same frequencies,
