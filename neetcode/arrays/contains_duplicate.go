@@ -1,4 +1,4 @@
-// Link: https://neetcode.io/problems/contains-duplicate
+// Link: https://neetcode.io/problems/duplicate-integer/question?list=neetcode250
 //
 // --- Problem Statement ---
 // Given an integer array nums, return true if any value
